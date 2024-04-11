@@ -1,0 +1,146 @@
+// //10주차
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import './index.css';
+
+
+// // import Task from './chapter_09/Task';
+// // import NumberList from './chapter_10/NumberList';
+// // const numbers = [1,2,3,4,5];
+// // const listItems = numbers.map((number)=>
+// // // 아이템들의 고유한 ID 대신 numbers 값들을 string으로 변환한 값을 id로 사용
+// // // error 없음
+// //   // <li key={numbers.toString()}>
+// //   //   {numbers}
+// //   // </li>
+
+// //   <li key={numbers.id}>
+// //     {number}
+// //   </li>
+  
+// // )
+
+// // import AttendanceBook from './chapter_10/AttendanceBook';
+// // import IterationSample from './chapter_10/IterationSample';
+// // import NameForm from './chapter_11/NameForm';
+// // import RequestFrom from './chapter_11/RequestForm';
+// // import FruitSelect from './chapter_11/FruitSelect';
+// // import SignUp from './chapter_11/SignUp';
+// // import Reservation from './chapter_11/Reservation';
+// // import Calculator from './chapter_12/Calculator';
+// // import TemperatureInput from './chapter_12/TemperatureInput';
+
+// ReactDOM.render(
+//   <React.StrictMode>
+//     {/* <CommentList/> */}
+//     {/* <NotificationList/> */}
+//     {/* <NumberList numbers={listItems}/> */}
+//     {/* <AttendanceBook/> */}
+//     {/* <IterationSample/> */}
+//     {/* <Task/> */}
+//     {/* <NameForm/> */}
+//     {/* <RequestFrom/> */}
+//     {/* <FruitSelect/> */}
+//     {/* <SignUp/> */}
+//     {/* <Reservation/> */}
+//     {/* <Calculator/> */}
+//     {/* <TemperatureInput/> */}
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
+
+// /*import Library from './chapter_03/Library';
+// const root = ReactDOM.createRoot(document.getElementById('root'));
+// root.render(
+//   <React.StrictMode>
+//     <Library />
+//   </React.StrictMode>
+// );
+// */
+
+
+// // If you want to start measuring performance in your app, pass a function
+// // to log results (for example: reportWebVitals(console.log))
+// // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// //reportWebVitals();
+
+
+//--------------------------------------------------------------
+// 9주차
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import './index.css';
+// //import App from './App';
+// //import reportWebVitals from './reportWebVitals';
+
+// //import CommentList from './chapter_05/CommentList';     //chapter5 
+// //import NotificationList from './chapter_06/NotificationList';     //chapter6 
+// //import Counter from './chapter_07/Counter';     //chapter7 
+// //import TextInputWithFocusButton from './chapter_07/TextInputWithFocusButton';     //chapter7 
+// //import MeasureExample from './chapter_07/MeasureExample';     //chapter7 
+// //import Accomodate from './chapter_07/Accommodate';      //chapter7 
+// // import Toggle from './chapter_08/Toggle';
+// // import FunctionToggle from './chapter_08/FunctionToggle';
+// // import Mybutton from './chapter_08/Mybutton';
+// // import FunctionMybutton from './chapter_08/FunctionMybutton';
+// // import ConfirmButton from './chapter_08/ConfirmButton';
+// // import FunctionConfirmbutton from './chapter_08/FunctionConfirmButton';
+// // import EvenPractice from './chapter_08/EventPractice';
+// // import LoginControl from './chapter_09/Greeting';
+// // import MainPage from './chapter_09/MainPage';
+// // import LandingPage from './chapter_09/LandingPage';
+// // import Task from './chapter_09/Task';
+
+// import NumberList from './chapter_10/NumberList';
+// const numbers = [1,2,3,4,5];
+// const listItems = numbers.map((number)=>
+// // 아이템들의 고유한 ID 대신 numbers 값들을 string으로 변환한 값을 id로 사용
+// // error 없음
+//   // <li key={numbers.toString()}>
+//   //   {numbers}
+//   // </li>
+
+//   <li key={numbers.id}>
+//     {number}
+//   </li>
+  
+// )
+
+// ReactDOM.render(
+//   <React.StrictMode>
+//     {/* <CommentList/> */}
+//     {/* <NotificationList/> */}
+//     {/* <Counter/> */}
+//     {/* <TextInputWithFocusButton/> */}
+//     {/* <MeasureExample/> */}
+//     {/* <Accomodate/> */}
+//     {/* <Toggle/> */}
+//     {/* <FunctionToggle/> */}
+//     {/* <Mybutton/> */}
+//     {/* <FunctionMybutton/> */}
+//     {/* <ConfirmButton/> */}
+//     {/* <FunctionConfirmbutton/> */}
+//     {/* <EvenPractice/> */}
+//     {/* <LoginControl/> */}
+//     {/* <MainPage/> */}
+//     {/* <LandingPage/> */}
+//     {/* <Task/> */}
+//     <NumberList numbers={listItems}/>
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
+
+// /*import Library from './chapter_03/Library';
+// const root = ReactDOM.createRoot(document.getElementById('root'));
+// root.render(
+//   <React.StrictMode>
+//     <Library />
+//   </React.StrictMode>
+// );
+// */
+
+
+// // If you want to start measuring performance in your app, pass a function
+// // to log results (for example: reportWebVitals(console.log))
+// // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// //reportWebVitals();

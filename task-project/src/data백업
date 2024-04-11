@@ -1,0 +1,698 @@
+[
+    {
+        "id" : 1,
+        "title": "장르",
+        "content": "장르 음악 리스트입니다.",
+        "lists" : [
+            {
+                "id": 11,
+                "subListTitle": "K-POP",
+                "musicLists" : [
+                    {
+                        "id": 111,
+                        "musicTitle": "SuperShy",
+                        "singer" : "뉴진스",
+                        "imageUrl": "https://i.namu.wiki/i/PmLMR1CdXVP4qbc4jlkGhwosORUxSkd97cKIwXr-jFDXax82WwZkgFRx89hDZW3jYuD9V2FSAE3iXfHf-l5q5EeEmZh_Batkhi_OFq1qVX3SM0Tb8qiurlfXu80Mx2t3x-vsGiPGbeDPVWbJzmDrXQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=ArmDp-zijuc"
+                    },
+                    {
+                        "id": 112,
+                        "musicTitle": "FEARLESS",
+                        "singer": "LE SSERAFIM",
+                        "imageUrl": "https://i.namu.wiki/i/76ybqn2cU4pZhhOK_jrBqccXZsm49mBfNrTtt4QBuVa_6ds8SpVk42cQH32x9KR7k0j_cNUopUBWJIaqzBMfdOyoQc1QXkmLj_vhnFha0jnv4_0dor0toCHpL98BwDZo2oqfCLpC6p25PYJ5BbE6mw.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=4vbDFu0PUew"
+                    },
+                    {
+                        "id": 113,
+                        "musicTitle": "Butter",
+                        "singer": "방탄소년단",
+                        "imageUrl": "https://i.namu.wiki/i/cO4hk3KErcOtQv2hlibMf8Es_of5hvUiOW7iSHsKtrmVuClYVSdNEzIs0DJs9Jogr__PqNh7fO7A_yrysjpbi60lr6PVHJZBZF2SgCtKDUsfDGdhkHY1wjDKi6ddHtcdAttSOxpa22GB4kkT9dqDqA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+                    },
+                    {
+                        "id": 114,
+                        "musicTitle": "LOVE DIVE",
+                        "singer": "아이브",
+                        "imageUrl": "https://i.namu.wiki/i/0x182vY6Arzj27X4ehmhHXg2wQztYlOrgdmQ203gUxdKw3Cy4AYPpx6wqrjyAvxekwCpP1mQU-pgCG58flQrWXtVul2-P7jYdjWBOM8NGgU3yzi2TMbTAZRNYWAqo3u_y0gYKYDBIizFnuLt_pqOxQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=Y8JFxS1HlDo"
+                    },
+                    {
+                        "id": 115,
+                        "musicTitle": "SPICY",
+                        "singer": "에스파",
+                        "imageUrl": "https://i.namu.wiki/i/WQqrRNdsBvatrII774HbDJ4jFfIwtQL8xFNkAa5YKF_pyyUZRC0m3TbZAskiYVrhYSnKz2DAMINQtYuV-BWtWmQjqQj-4JQZeIKAKp9ty4F6LpaTBG9dApt5MVa1MOoOEij-ns_PnL0qAMdu001ATA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=Os_heh8vPfs"
+                    },
+                    {
+                        "id": 116,
+                        "musicTitle": "파이팅 해야지",
+                        "singer": "세븐틴 (Feat. 이영지)",
+                        "imageUrl": "https://i.namu.wiki/i/AQ0OOw3XoMgXuxrN8XlFsRd_hmbTJVBhRWp1TIwbyaQhorlQg0sAFGDod-AhalNqNTLMYPkA83cHL1G_Gmp1sOEHVvQc1Ni1izbnQ_iPuvhhyDBxQ9mFc87YcizYRFK-DCM1UDAUwYERWbQsgKoKcw.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=mBXBOLG06Wc"
+
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "subListTitle": "발라드",
+                "musicLists" : [
+                    {
+                        "id": 121,
+                        "musicTitle": "너의 번호를 누르고",
+                        "singer": "#안녕",
+                        "imageUrl": "https://i.namu.wiki/i/zPYCVmtDDnIAdvSBo28njEwYCZYwSuNShQPEAW8kzF_8vIRN5843J7Bu04hftWz0_kcQ9xPfuTENdiMW7eppQnVbVcREdEorwbDt4Z3id68o0SHL8vW_e0lOuKBRaj_0B-n9W9vh_sgT80-pCUkB7A.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=4OWRJ8Hnkz4"
+                    },
+                    {
+                        "id": 122,
+                        "musicTitle": "소리",
+                        "singer": "이수현",
+                        "imageUrl": "https://i.namu.wiki/i/K8odldbr9z0vVjwc0pF9mYX5mfq3-Kda4tkgBX83RSXfwxOFWFtm9DXrq0lLz04N_Rz5Wb4G20Oq7R__sG7P3F5KcHPceUajwj_c6sjHNWWvK4U5YSwTJrEcfZDJo1rv4F2xcA0StwlU_nKA5RAihw.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=WczI5vaARzg"
+                    },
+                    {
+                        "id": 123,
+                        "musicTitle": "눈사람",
+                        "singer": "정승환",
+                        "imageUrl": "https://i.namu.wiki/i/KOSgvrq4EKg1kLthJ-omkN6PEPR2Mo6fJt2njNmE0L-H1gLykrrrg7M04RiFa2d9dtXtDVSC-IOfCszFZBakUtbXg6gB8rBZxo05gryl8LbWxjwHaocFVKZNYVkqbgQhC_pZ3qicOCBkOsvXJXllXQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=gPNu9OIj4Zo"
+                    },
+                    {
+                        "id": 124,
+                        "musicTitle": "그때 그 아이들은",
+                        "singer": "AKMU",
+                        "imageUrl": "https://i.namu.wiki/i/f3Jo-bK08_X3IiSPoTeKh0UEgTHNwmvOnsBbsYcyScaGjTvuJGMrTjKr88ozH1I0B-BfiCy2RHwQTgJc_pQchKn-NuvRM-k-SF-tTZOiKx0kTqQs6MhyCIwrE3CzAy7VPztGAMwgdviufwczXtBz5w.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/results?search_query=%EA%B7%B8%EB%95%8C+%EA%B7%B8+%EC%95%84%EC%9D%B4%EB%93%A4%EC%9D%80"
+                    },
+                    {
+                        "id": 125,
+                        "musicTitle": "어른",
+                        "singer": "Sondia",
+                        "imageUrl": "https://i.namu.wiki/i/iFMKXtSZxuBGkC026DU1ec9XF2LFm6h_o62Z0o1WB_Vv9tQ8gFbtgEPc2-utnj13NpDDX4ezRbRwiOf1Y2zhR63zBwy8kUK5oIaZhKBfhsOgBMZqkGA_6Zr1iyTMimRoXaS_SLxY5UtRAyJBuzfJyA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=5a-tqIQc8RM"
+                    },
+                    {
+                        "id": 126,
+                        "musicTitle": "우린 그렇게 사랑해서",
+                        "singer": "강민경 & 잔나비 최정훈",
+                        "imageUrl": "https://i.namu.wiki/i/WyWgwrQL90dILU7HDLm4KS_jdVPI2Q_-Ne3B9EWvXIKrpOQ3_U9teNvG-E42v0zZA1ceEsMHf6K2Zt-mJw5f9s4Pl5PsqxGoHfshvLuVVZnLf1AHWUWdP3eVK6rmiBGNIvbudDn6lA9xfo6qMAkTOA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=TfvXDiBLfg0"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "subListTitle": "힙합",
+                "musicLists" : [
+                    {
+                        "id": 131,
+                        "musicTitle": "검정색 하트",
+                        "singer": "Toil (Feat Leallamarz, BE'O)",
+                        "imageUrl": "https://i.namu.wiki/i/7giUiUhKhHE8f9un0Q_lRcr2FJkdIPqUvg5c4IVbxohdQUDaXfQta2Xak9NeYsQGa5kozZZEA7HQ5pMZfqnkbLfoq9-vaf7b36eSc3ZHeb4BzAw4BWYMXxuDMG0wNhun4s8QY0mQhfPdl53MGj9pEw.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=1UrVXjIlqus"
+                    },
+                    {
+                        "id": 132,
+                        "musicTitle": "하지마",
+                        "singer": "릴러말즈 & TOIL",
+                        "imageUrl": "https://i.namu.wiki/i/LJL0Mxw6lfl5751tx93j_pz4V-78LVgcUS0m8B58Jw1EymFQKSYDp0s3DEnLtdrJsiNVdrRuYqFVV_F-t54RoVEWwXi6bxVJEHYpzuHUO6Pe2wy3pPiTgcmuq_5xKnSKna9-bCF5R6XrCKld8fSLag.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 133,
+                        "musicTitle": "힙합",
+                        "singer": "도끼 (feat. Beenzino)",
+                        "imageUrl": "https://i.namu.wiki/i/ywmiowWbbxV4nD6OEEzuMXvsHpxkOg5_7N9eMptoIYFK58H8Tv3M0nw6IQAcShc129gqLxNxJic4raJgS6uDI3ayxknX95zBchITwZz__PJECyR2D9adscjJAt-AVmbVcOeYdosKOi8c9iLCHEsa_Q.webp",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=beVj8cgcd5M"
+                    },
+                    {
+                        "id": 134,
+                        "musicTitle": "붕붕 (Feat. 식케이)",
+                        "singer": "김하온(HAON)",
+                        "imageUrl": "https://i.namu.wiki/i/DotANRj9-7HQEqtoiiUHb1nRj_Q4sS8s8bw-Wv5n8GAf5S7-rFEqQCj3SBSFLZixM9xCPXT0BMXwNp_7GvzxEUNTfQeG8iZXhRrQkYd1r9yEdo6nuIMwU3TLWmt7MwC0mX7ZdHTS8v33dIwkOP_oBQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 135,
+                        "musicTitle": "세탁소",
+                        "singer": "유라(youra)",
+                        "imageUrl": "https://i.namu.wiki/i/2NyiSS9kx-CsExeRGcvXMMrO0kCFTwSSpMZi8xjYrJnFEOSXzLdwJFbN5fUT3cBBNbFFgl2Ndu-eNSPdLvSftHigp8UKvXdH5BUMJeU57aoLzPASwgy7_lHHSdvyJociS5TDMGbP5-ti_gjb7ieCzA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=WWULS79hFYE"
+                    },
+                    {
+                        "id": 136,
+                        "musicTitle": "내 기쁨은 너가 벤틀리를 끄는 거야",
+                        "singer": "김승민",
+                        "imageUrl": "https://i.namu.wiki/i/zhc1yFBHj5hD1-__KnrOuML_q798ftGC6_GupJToozico7GzjqDTa6FxPEMzheMktPUB8cAaMOsOsT4uQu1k_6WeNsOxrvlq-OW8iFGa_9piIQjSVgcgr--0UonGRste-fzgt4rpPM_Hg3r-C6Tbjg.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    }
+                ]
+            },
+            {
+                "id":14,
+                "subListTitle": "인디",
+                "musicLists" : [
+                    {
+                        "id": 141,
+                        "musicTitle": "Antifreeze",
+                        "singer": "백예린",
+                        "imageUrl": "https://i.namu.wiki/i/73-R6WYQiQBjNyUnvv9pi-atxjdCVP881bK4osd3T7OK80BsSaRTnPtHlDzXDvtlybcbF-409fF0sVnN4jLBu8NxCjWoF2ToisrYuThEz3_NFEfK1D9yJChT4cs34Fpg2KHYKUMPBT3iss1YpLLesQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=74_yqNBhQbA"
+                    },
+                    {
+                        "id": 142,
+                        "musicTitle": "가을밤에 든 생각",
+                        "singer": "잔나비",
+                        "imageUrl": "https://i.namu.wiki/i/VqwxgXi-tDLqYfCwR_PCCxKDdp5Mp366zzWjqz31-TCVCuexjDP4RAOXfQ5qFZyxzU5wglex7goNtjDXPFYEPdP3uC7D6FRPYWUna6z3CvQeRutmkVa607ISbLqcuHkvmxiSigLc6a2kzK3c6VyFZA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 143,
+                        "musicTitle": "눈이 오잖아 (Feat.헤이즈)",
+                        "singer": "이무진",
+                        "imageUrl": "https://i.namu.wiki/i/E5UJYluxR-vOb_P2IuOcG9tNLBJanE_xTYf6O8GwPHdlV6UfXdn5GoOyFWiO4ZltahKyJ9_yoHFormpw6PRlxuNGBK5n48mdnR1sxqi1lHcLI5R9paX88YrZmzPeDCWs387uTF20HQvSS37W-rDYew.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 144,
+                        "musicTitle": "yours",
+                        "singer": "데이먼스 이어",
+                        "imageUrl": "https://i.namu.wiki/i/waU461NY0iGa3c1QgKKFdjbEwdVvxAZ1MpUhvY1aSCOi808CnS6VohtMu_8LdXo0-CV1FhlxcwojP5Yh_oEWIxvrvdWnJj3iUafly7_YoHKYOLxzlbepnDT1W1lq0il7ooRbBOQ6tKmThfyI3A3hGA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=VHj6IYA-Dxs"
+                    },
+                    {
+                        "id": 145,
+                        "musicTitle": "매트리스",
+                        "singer": "10CM",
+                        "imageUrl": "https://i.namu.wiki/i/T1iJTevL7fQsucaKOVEquhIDFgnrdOFAu4d9yLP9niYxnnuPt-dQLME2H3oWkidfN1bxucHwhKzKhd04eYq2tADJSfSNxF2WZ2WIN6uotpK0h7CPoKSVyscyUh1klu9xR-JEufWUKb-xG31pk6mU2A.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=seNNCbiXTSY"
+                    },
+                    {
+                        "id": 146,
+                        "musicTitle": "고백",
+                        "singer": "멜로망스",
+                        "imageUrl": "https://i.namu.wiki/i/w2lyzT1-DpXc3IBybd3m2aCJ_M_JATQSAVVK0Q_VjKRfJOhux0QZe4C-fSF6bjD_eaehs0rCcoR5q3-7QsunzQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    }
+                ]
+
+            },
+            {
+                "id": 15,
+                "subListTitle": "POP",
+                "musicLists" : [
+                    {
+                        "id": 151,
+                        "musicTitle": "Day 1 ◑",
+                        "singer": "Honne",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20190219165951.png",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=hWOB5QYcmh0"
+                    },
+                    {
+                        "id": 152,
+                        "musicTitle": "Last Christmas",
+                        "singer": "Ariana Grande",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20201127140803.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 153,
+                        "musicTitle": "bad guy",
+                        "singer": "Billie Eilish",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20190417231548.png",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 154,
+                        "musicTitle": "Photograph",
+                        "singer": "Ed Sheeran",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20140723055257.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 155,
+                        "musicTitle": "YOUTH",
+                        "singer": "Troye Sivan",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20170515151754.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 156,
+                        "musicTitle": "double take",
+                        "singer": "dhruv",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202201172305007.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "title": "가수",
+        "content": "가수 음악 리스트입니다.",
+        "lists" : [
+            {
+                "id": 21,
+                "subListTitle": "아이유",
+                "musicLists" : [
+                    {
+                        "id": 211,
+                        "musicTitle": "라일락",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20210325215317.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                                            },
+                    {
+                        "id": 212,
+                        "musicTitle": "밤편지",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20170327114216.JPG",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                                            },
+                    {
+                        "id": 213,
+                        "musicTitle": "이름에게",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20170424110533.JPG",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 214,
+                        "musicTitle": "좋은날",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/41734.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 215,
+                        "musicTitle": "미아",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/25449.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 216,
+                        "musicTitle": "Havana",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20131008061251.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "subListTitle": "릴러말즈",
+                "musicLists":[
+                    {
+                        "id": 221,
+                        "musicTitle": "검정색 하트",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202202101335011.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 222,
+                        "musicTitle": "하지마",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202308210928023.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 223,
+                        "musicTitle": "OUT OF MY SIGHT",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202112271610057.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 224,
+                        "musicTitle": "Trip (Feat. Hannah)",
+                        "singer": "릴러말즈",
+                        "imageUrl": ""
+                    },
+                    {
+                        "id": 225,
+                        "musicTitle": "자가격리 (Feat. Paloalto)",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202204261342041.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    },
+                    {
+                        "id": 226,
+                        "musicTitle": "거리에서 (Feat. ASH ISLAND)",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202308192046001.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "subListTitle": "Honne",
+                "musicLists": [
+                    {
+                        "id": 231,
+                        "musicTitle": "Free Love",
+                        "singer": "Honne",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20200726213057.png",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=1uB2cDgTufQ"
+                    },
+                    {
+                        "id": 232,
+                        "musicTitle": "Day 1 ◑",
+                        "singer": "Honne",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20190219165951.png",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=hWOB5QYcmh0"
+                    },
+                    {
+                        "id": 233,
+                        "musicTitle": "3am",
+                        "singer": "Honne",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20180725132219.JPG",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=kYdHNxbODjY"
+                    },
+                    {
+                        "id": 234,
+                        "musicTitle": "Warm On A Cold Night",
+                        "singer": "Honne",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20161206155610.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=CX5f0NcqlMs"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "title": "인기",
+        "content": "인기 음악 리스트입니다.",
+        "lists" : [
+            {
+                "id": 31,
+                "subListTitle": "국내",
+                "musicLists": [
+                    {
+                        "id": 311,
+                        "musicTitle": "검정색 하트",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202202101335011.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=1UrVXjIlqus"
+                    },
+                    {
+                        "id": 312,
+                        "musicTitle": "자가격리 (Feat. Paloalto)",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202204261342041.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=aknbQC0zX-Y"
+                    },
+                    {
+                        "id": 313,
+                        "musicTitle": "Havana",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20131008061251.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=3mk-DIcvVGU"
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "subListTitle": "해외",
+                "musicLists": [
+                    {
+                        "id": 321,
+                        "musicTitle": "Day 1 ◑",
+                        "singer": "Honne",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20190219165951.png",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=rfKTdL8Zx1M"
+                    },
+                    {
+                        "id": 322,
+                        "musicTitle": "tomorrow tonight",
+                        "singer": "Loote",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20201112212700.jpg",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=OfG97e-4YXE"
+                    },
+                    {
+                        "id": 323,
+                        "musicTitle": "bad guy",
+                        "singer": "Billie Eilish",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20190417231548.png",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=DyDfgMOUjCI"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "subListTitle": "월간",
+                "musicLists": [
+                    {
+                        "id": 331,
+                        "musicTitle": "검정색 하트",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202202101335011.jpg",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=1UrVXjIlqus"
+                    },
+                    {
+                        "id": 332,
+                        "musicTitle": "Havana",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20131008061251.jpg",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=3mk-DIcvVGU"
+                    },
+                    {
+                        "id": 333,
+                        "musicTitle": "매트리스",
+                        "singer": "10CM",
+                        "imageUrl": "https://i.namu.wiki/i/T1iJTevL7fQsucaKOVEquhIDFgnrdOFAu4d9yLP9niYxnnuPt-dQLME2H3oWkidfN1bxucHwhKzKhd04eYq2tADJSfSNxF2WZ2WIN6uotpK0h7CPoKSVyscyUh1klu9xR-JEufWUKb-xG31pk6mU2A.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=seNNCbiXTSY"
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "subListTitle": "연간",
+                "musicLists": [
+                    {
+                        "id": 341,
+                        "musicTitle": "Antifreeze",
+                        "singer": "백예린",
+                        "imageUrl": "https://i.namu.wiki/i/73-R6WYQiQBjNyUnvv9pi-atxjdCVP881bK4osd3T7OK80BsSaRTnPtHlDzXDvtlybcbF-409fF0sVnN4jLBu8NxCjWoF2ToisrYuThEz3_NFEfK1D9yJChT4cs34Fpg2KHYKUMPBT3iss1YpLLesQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=74_yqNBhQbA"
+                    },
+                    {
+                        "id": 342,
+                        "musicTitle": "yours",
+                        "singer": "데이먼스 이어",
+                        "imageUrl": "https://i.namu.wiki/i/waU461NY0iGa3c1QgKKFdjbEwdVvxAZ1MpUhvY1aSCOi808CnS6VohtMu_8LdXo0-CV1FhlxcwojP5Yh_oEWIxvrvdWnJj3iUafly7_YoHKYOLxzlbepnDT1W1lq0il7ooRbBOQ6tKmThfyI3A3hGA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=VHj6IYA-Dxs"
+                    },
+                    {
+                        "id": 343,
+                        "musicTitle": "어른",
+                        "singer": "Sondia",
+                        "imageUrl": "https://i.namu.wiki/i/iFMKXtSZxuBGkC026DU1ec9XF2LFm6h_o62Z0o1WB_Vv9tQ8gFbtgEPc2-utnj13NpDDX4ezRbRwiOf1Y2zhR63zBwy8kUK5oIaZhKBfhsOgBMZqkGA_6Zr1iyTMimRoXaS_SLxY5UtRAyJBuzfJyA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": ""
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "subListTitle": "여성",
+                "musicLists": [
+                    {
+                        "id": 351,
+                        "musicTitle": "너의 번호를 누르고",
+                        "singer": "#안녕",
+                        "imageUrl": "https://i.namu.wiki/i/zPYCVmtDDnIAdvSBo28njEwYCZYwSuNShQPEAW8kzF_8vIRN5843J7Bu04hftWz0_kcQ9xPfuTENdiMW7eppQnVbVcREdEorwbDt4Z3id68o0SHL8vW_e0lOuKBRaj_0B-n9W9vh_sgT80-pCUkB7A.webp",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=4OWRJ8Hnkz4"
+                    },
+                    {
+                        "id": 352,
+                        "musicTitle": "눈사람",
+                        "singer": "정승환",
+                        "imageUrl": "https://i.namu.wiki/i/KOSgvrq4EKg1kLthJ-omkN6PEPR2Mo6fJt2njNmE0L-H1gLykrrrg7M04RiFa2d9dtXtDVSC-IOfCszFZBakUtbXg6gB8rBZxo05gryl8LbWxjwHaocFVKZNYVkqbgQhC_pZ3qicOCBkOsvXJXllXQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=gPNu9OIj4Zo"
+                    },
+                    {
+                        "id": 353,
+                        "musicTitle": "우린 그렇게 사랑해서",
+                        "singer": "강민경 & 잔나비 최정훈",
+                        "imageUrl": "https://i.namu.wiki/i/WyWgwrQL90dILU7HDLm4KS_jdVPI2Q_-Ne3B9EWvXIKrpOQ3_U9teNvG-E42v0zZA1ceEsMHf6K2Zt-mJw5f9s4Pl5PsqxGoHfshvLuVVZnLf1AHWUWdP3eVK6rmiBGNIvbudDn6lA9xfo6qMAkTOA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=TfvXDiBLfg0"
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "subListTitle": "남성",
+                "musicLists": [
+                    {
+                        "id": 361,
+                        "musicTitle": "LOVE DIVE",
+                        "singer": "아이브",
+                        "imageUrl": "https://i.namu.wiki/i/0x182vY6Arzj27X4ehmhHXg2wQztYlOrgdmQ203gUxdKw3Cy4AYPpx6wqrjyAvxekwCpP1mQU-pgCG58flQrWXtVul2-P7jYdjWBOM8NGgU3yzi2TMbTAZRNYWAqo3u_y0gYKYDBIizFnuLt_pqOxQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=Y8JFxS1HlDo"
+                    },
+                    {
+                        "id": 362,
+                        "musicTitle": "힙합",
+                        "singer": "도끼 (feat. Beenzino)",
+                        "imageUrl": "https://i.namu.wiki/i/ywmiowWbbxV4nD6OEEzuMXvsHpxkOg5_7N9eMptoIYFK58H8Tv3M0nw6IQAcShc129gqLxNxJic4raJgS6uDI3ayxknX95zBchITwZz__PJECyR2D9adscjJAt-AVmbVcOeYdosKOi8c9iLCHEsa_Q.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=beVj8cgcd5M"
+                    },
+                    {
+                        "id": 363,
+                        "musicTitle": "세탁소",
+                        "singer": "유라(youra)",
+                        "imageUrl": "https://i.namu.wiki/i/2NyiSS9kx-CsExeRGcvXMMrO0kCFTwSSpMZi8xjYrJnFEOSXzLdwJFbN5fUT3cBBNbFFgl2Ndu-eNSPdLvSftHigp8UKvXdH5BUMJeU57aoLzPASwgy7_lHHSdvyJociS5TDMGbP5-ti_gjb7ieCzA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=WWULS79hFYE"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id" : 4,
+        "title": "분위기",
+        "content": "분위기 음악 리스트입니다.",
+        "lists" : [
+            {
+                "id": 41,
+                "subListTitle": "편안한 분위기",
+                "musicLists": [
+                    {
+                        "id": 411,
+                        "musicTitle": "yours",
+                        "singer": "데이먼스 이어",
+                        "imageUrl": "https://i.namu.wiki/i/waU461NY0iGa3c1QgKKFdjbEwdVvxAZ1MpUhvY1aSCOi808CnS6VohtMu_8LdXo0-CV1FhlxcwojP5Yh_oEWIxvrvdWnJj3iUafly7_YoHKYOLxzlbepnDT1W1lq0il7ooRbBOQ6tKmThfyI3A3hGA.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=VHj6IYA-Dxs"
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "subListTitle": "여행",
+                "musicLists": [
+                    {
+                        "id": 421,
+                        "musicTitle": "LOVE DIVE",
+                        "singer": "아이브",
+                        "imageUrl": "https://i.namu.wiki/i/0x182vY6Arzj27X4ehmhHXg2wQztYlOrgdmQ203gUxdKw3Cy4AYPpx6wqrjyAvxekwCpP1mQU-pgCG58flQrWXtVul2-P7jYdjWBOM8NGgU3yzi2TMbTAZRNYWAqo3u_y0gYKYDBIizFnuLt_pqOxQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=Y8JFxS1HlDo"
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "subListTitle": "자장가",
+                "musicLists":[
+                    {
+                        "id": 431,
+                        "musicTitle": "검정색 하트",
+                        "singer": "릴러말즈",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/202202101335011.jpg",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=1UrVXjIlqus"
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "subListTitle": "집중",
+                "musicLists": [
+                    {
+                        "id": 442,
+                        "musicTitle": "Havana",
+                        "singer": "아이유",
+                        "imageUrl": "https://www.akbobada.com/home/akbobada/archive/akbo/img/20131008061251.jpg",
+                        "date": "2023.01.25",
+                        "playUrl":  "https://www.youtube.com/watch?v=3mk-DIcvVGU"
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "subListTitle": "비 내리는 날",
+                "musicLists": [
+                    {
+                        "id": 451,
+                        "musicTitle": "Antifreeze",
+                        "singer": "백예린",
+                        "imageUrl": "https://i.namu.wiki/i/73-R6WYQiQBjNyUnvv9pi-atxjdCVP881bK4osd3T7OK80BsSaRTnPtHlDzXDvtlybcbF-409fF0sVnN4jLBu8NxCjWoF2ToisrYuThEz3_NFEfK1D9yJChT4cs34Fpg2KHYKUMPBT3iss1YpLLesQ.webp",
+                        "date": "2023.01.25",
+                        "playUrl": "https://www.youtube.com/watch?v=74_yqNBhQbA"
+                    }
+                ]
+            }
+            
+        ]
+    }
+]
